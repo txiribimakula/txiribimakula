@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @txiribimakula
+- 👀 I’m interested in SVG, .NET & Angular projects.
+- 🌱 I’m currently learning more about SVG, .NET & Angular.
+- 💞️ I’m looking to collaborate on CAD related projects.
+- 📫 Feel free messaging me.
